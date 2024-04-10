@@ -1,4 +1,4 @@
 [build]
   base = "/"
-  command = "ls && hugo"
+  command = "hugo version && hugo"
   publish = "public"
