@@ -1,0 +1,14 @@
+.DS_Store
+.hugo_build.lock
+.idea
+.vscode
+assets/css/vidstack
+assets/css/styles.css.bak.css
+assets/css/uno.css
+desktop.ini
+node_modules
+package-lock.json
+public
+resources
+scripts.js
+thumbs.db

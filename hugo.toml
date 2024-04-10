@@ -1,0 +1,77 @@
+baseurl = "https://blog.miafallon.dev"
+title = "all my friends are bread"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+enableEmoji = true
+
+paginate = 20
+
+[markup.highlight]
+  style = "github-dark"
+
+[params]
+  author = "Mia Fallon"
+  info = "senior software engineer"
+  description = "Mia Fallon's personal website"
+  keywords = "blog,developer,personal,portfolio"
+  avatarurl = "images/avatar.png"
+
+  # faviconSVG = "/img/favicon.svg"
+  # favicon_32 = "/img/favicon-32x32.png"
+  # favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2017
+
+  enableTwemoji = true
+
+  colorScheme = "dark"
+  hidecolorschemetoggle = true
+
+  maxSeeAlsoItems = 3
+
+  # customCSS = ["css/custom.css"]
+  customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/inform880/"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 2
+  url = "https://linkedin.com/in/mia-fallon"
+[[params.social]]
+  name = "RSS"
+  icon = "fa-solid fa-rss fa-2x"
+  weight = 3
+  url = "https://myhugosite.com/index.xml"
+  rel = "alternate"
+  type = "application/rss+xml"
+
+# Menu links
+[[menu.main]]
+  name = "home"
+  weight = 1
+  url  = "/"
+[[menu.main]]
+  name = "blog"
+  weight = 2
+  url  = "blog/"
+[[menu.main]]
+  name = "about"
+  weight = 3
+  url = "about/"
+[[menu.main]]
+  name = "projects"
+  weight = 4
+  url = "projects/"
