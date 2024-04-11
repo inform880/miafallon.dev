@@ -1,4 +1,4 @@
-baseurl = "https://blog.miafallon.dev"
+baseurl = "https://miafallon.dev"
 title = "MIA FALLON | inform880"
 theme = "hugo-coder"
 languagecode = "en"
