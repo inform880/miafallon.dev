@@ -5,3 +5,32 @@
     width: 8rem;
   }
 }
+
+.navigation{
+  .navigation-title {
+    text-transform: none;
+  }
+}
+
+.project-grid {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  align-items: flex-start;
+  grid-row-gap: 32px;
+  
+  h4 {
+    margin: 0px;
+    padding-top: 1px;
+  }
+
+  p {
+    margin: 0px;
+    margin-bottom: 8px;
+    font-weight: normal;
+  }
+
+  @media only screen and (max-width: 768px) {
+    grid-template-columns: 1fr;
+    grid-row-gap: 8px;
+  }
+}

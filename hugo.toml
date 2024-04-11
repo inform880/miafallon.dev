@@ -1,5 +1,5 @@
 baseurl = "https://blog.miafallon.dev"
-title = "all my friends are bread"
+title = "MIA FALLON | inform880"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -13,7 +13,7 @@ paginate = 20
 [params]
   author = "Mia Fallon"
   info = "senior software engineer"
-  description = "Mia Fallon's personal website"
+  description = "Mia Fallon's personal and professional website"
   keywords = "blog,developer,personal,portfolio"
   avatarurl = "images/avatar.png"
 
@@ -28,11 +28,13 @@ paginate = 20
   colorScheme = "dark"
   hidecolorschemetoggle = true
 
-  maxSeeAlsoItems = 3
+  maxSeeAlsoItems = 0
 
   # customCSS = ["css/custom.css"]
   customSCSS = ["scss/custom.scss"]
   # customJS = ["js/custom.js"]
+  [markup.goldmark.renderer]
+    unsafe= true
 
 [taxonomies]
   category = "categories"
@@ -51,10 +53,15 @@ paginate = 20
   weight = 2
   url = "https://linkedin.com/in/mia-fallon"
 [[params.social]]
+  name = "Discord"
+  icon = "fa-brands fa-discord fa-2x"
+  weight = 2
+  url = "https://discordapp.com/users/178255008788250624"
+[[params.social]]
   name = "RSS"
   icon = "fa-solid fa-rss fa-2x"
   weight = 3
-  url = "https://myhugosite.com/index.xml"
+  url = "/index.xml"
   rel = "alternate"
   type = "application/rss+xml"
 
@@ -64,14 +71,14 @@ paginate = 20
   weight = 1
   url  = "/"
 [[menu.main]]
-  name = "blog"
-  weight = 2
-  url  = "blog/"
-[[menu.main]]
   name = "about"
-  weight = 3
+  weight = 2
   url = "about/"
 [[menu.main]]
   name = "projects"
-  weight = 4
+  weight = 3
   url = "projects/"
+[[menu.main]]
+  name = "blog"
+  weight = 4
+  url  = "blog/"
