@@ -71,10 +71,6 @@ paginate = 20
   weight = 1
   url  = "/"
 [[menu.main]]
-  name = "about"
-  weight = 2
-  url = "about/"
-[[menu.main]]
   name = "projects"
   weight = 3
   url = "projects/"
