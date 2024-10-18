@@ -93,4 +93,12 @@ A simple cookbook website where you can upload recipes, browse through recipes, 
 
 A social media website and app capturing old school social media with modern design.
 
+#### Sprinkle Sprinkle
+
+[mobile](https://apps.apple.com/us/app/sprinkle-sprinkle/id6504508091)
+
+</div>
+
+Advice app powered by ChatGPT that allows users to get advice in chats, and get ratings and suggestions based on pictures of outfits.
+
 </div>
