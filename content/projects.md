@@ -59,7 +59,7 @@ A car loan website for paying and managing auto loans, from clients to car deale
 
 <div>
 
-#### Cumulus/Fuuz
+#### Cumulus (now Fuuz)
 
 [web/mobile](https://fuuz.com/)
 
@@ -94,4 +94,3 @@ A simple cookbook website where you can upload recipes, browse through recipes, 
 A social media website and app capturing old school social media with modern design.
 
 </div>
-
