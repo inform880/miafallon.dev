@@ -1,5 +1,5 @@
 baseurl = "https://miafallon.dev"
-title = "Mia | inform880"
+title = "Mia Fallon"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -15,11 +15,9 @@ author = "Mia Fallon"
 info = "senior software engineer"
 description = "Mia Fallon's personal and professional website"
 keywords = "blog,developer,personal,portfolio"
-avatarurl = "images/avatar.png"
+avatarurl = "images/avatar.jpg"
 
-# faviconSVG = "/img/favicon.svg"
-# favicon_32 = "/img/favicon-32x32.png"
-# favicon_16 = "/img/favicon-16x16.png"
+faviconSVG = "/favicon.svg"
 
 since = 2017
 
@@ -64,6 +62,12 @@ weight = 3
 url = "/index.xml"
 rel = "alternate"
 type = "application/rss+xml"
+[[params.social]]
+name = "email"
+icon = "fa-solid fa-envelope fa-2x"
+weight = 4
+url = "mailto:mfallondev@gmail.com"
+rel = "author"
 
 # Menu links
 [[menu.main]]

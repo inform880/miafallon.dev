@@ -11,7 +11,7 @@ slug = 'projects'
 
 #### myPurina
 
-[mobile](https://mypurina.onelink.me/z05v/hzbojrvs)
+[App](https://mypurina.onelink.me/z05v/hzbojrvs)
 
 </div>
 
@@ -21,7 +21,7 @@ Led development of a React Native app from the ground up, making critical decisi
 
 #### PetPocketBook
 
-[web](https://www.petpocketbook.com/home/index)
+[website](https://www.petpocketbook.com/home/index)
 
 </div>
 
@@ -31,7 +31,7 @@ Automate billing, streamline scheduling, and stay organized with everything you 
 
 #### Discover
 
-[mobile](https://apps.apple.com/us/app/discover-mobile/id338010821)
+[iOS Store](https://apps.apple.com/us/app/discover-mobile/id338010821)
 
 </div>
 
@@ -41,7 +41,7 @@ The Discover bank mobile app with a variety of features.
 
 #### Driveway
 
-[web](https://www.driveway.com/)
+[website](https://www.driveway.com/)
 
 </div>
 
@@ -51,7 +51,7 @@ A car buying site powered by the 3rd largest car dealership in the United States
 
 #### Ally Bank
 
-[web](https://www.ally.com/)
+[website](https://www.ally.com/)
 
 </div>
 
@@ -59,9 +59,9 @@ A car loan website for paying and managing auto loans, from clients to car deale
 
 <div>
 
-#### Cumulus (now Fuuz)
+#### Cumulus (Fuuz)
 
-[web/mobile](https://fuuz.com/)
+[website](https://fuuz.com/)
 
 </div>
 
@@ -77,7 +77,7 @@ A CRM software for connecting various endpoints to the ERP system Plex Systems u
 
 #### CookVibe
 
-[web](https://cookvibe.org/)
+[contact for source](/)
 
 </div>
 
@@ -87,7 +87,7 @@ A simple cookbook website where you can upload recipes, browse through recipes, 
 
 #### Friend Refresh
 
-[web](https://friendrefresh.com/) / [mobile](https://apps.apple.com/us/app/friend-refresh/id6446061010)
+[contact for source](/)
 
 </div>
 
@@ -97,7 +97,7 @@ A social media website and app capturing old school social media with modern des
 
 #### Sprinkle Sprinkle
 
-[mobile](https://apps.apple.com/us/app/sprinkle-sprinkle/id6504508091)
+[iOS Store](https://apps.apple.com/us/app/sprinkle-sprinkle/id6504508091)
 
 </div>
 
