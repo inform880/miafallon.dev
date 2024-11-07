@@ -1,8 +1,8 @@
 ---
 draft: false
-date: 2024-09-03T12:00:00-04:00
+date: 2024-11-06T12:00:00-04:00
 title: "destroy detroit"
-description: "test"
+description: ""
 authors: ["Mia"]
 tags: []
 categories: []
