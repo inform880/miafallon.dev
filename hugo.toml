@@ -1,5 +1,5 @@
 baseurl = "https://miafallon.dev"
-title = "Mia Fallon"
+title = "home"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -11,9 +11,9 @@ paginate = 20
 style = "github-dark"
 
 [params]
-author = "Mia Fallon"
+author = "m. fallon"
 info = "senior software engineer"
-description = "Mia Fallon's personal and professional website"
+description = "My portfolio, blog, and personal website all-in-one"
 keywords = "blog,developer,personal,portfolio"
 avatarurl = "images/avatar.jpg"
 
@@ -70,15 +70,15 @@ url = "mailto:mfallondev@gmail.com"
 rel = "author"
 
 # Menu links
-[[menu.main]]
-name = "home"
-weight = 1
-url = "/"
+# [[menu.main]]
+# name = "home"
+# weight = 1
+# url = "/"
 [[menu.main]]
 name = "projects"
 weight = 3
 url = "projects/"
 [[menu.main]]
-name = "blog"
+name = "posts"
 weight = 4
 url = "blog/"

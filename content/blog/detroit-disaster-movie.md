@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 date: 2024-09-03T12:00:00-04:00
-title: "lets destroy detroit"
+title: "destroy detroit"
 description: "test"
 authors: ["Mia"]
 tags: []
@@ -23,6 +23,6 @@ The gothic, sometimes brutalist, concrete skyscrapers and builings of the city w
 
 Michigan Central Station is a key example of some long overdue development. Sitting vacant since the late 80-ish, Ford bought it out and spent millions fixing it up. And again, would be fun to blow up.
 
-<video width="400px" style="max-width:100%" controls>
+<video style="max-width:100%" controls>
   <source src="/blog/detroit-disaster-movie/MC-web-small-480.webm" type="video/webm">
 </video>
