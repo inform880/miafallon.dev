@@ -4,7 +4,7 @@ date: 2024-11-06T12:00:00-04:00
 title: "destroy detroit"
 description: ""
 authors: ["Mia"]
-tags: []
+tags: ['personal', 'movies', 'detroit']
 categories: []
 series: []
 ---

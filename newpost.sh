@@ -1,0 +1,1 @@
+hugo new content content/blog/$1.md
