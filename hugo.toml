@@ -24,7 +24,7 @@ since = 2017
 enableTwemoji = true
 
 colorScheme = "dark"
-hidecolorschemetoggle = true
+hidecolorschemetoggle = false
 
 maxSeeAlsoItems = 0
 
@@ -33,6 +33,11 @@ customSCSS = ["scss/custom.scss"]
 # customJS = ["js/custom.js"]
 [markup.goldmark.renderer]
 unsafe = true
+
+[params.goatCounter]
+code = "mfallondev"
+# You will access your account at https://[code].goatcounter.com
+# analytics ^
 
 [taxonomies]
 category = "categories"
