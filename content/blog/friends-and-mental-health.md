@@ -1,7 +1,7 @@
 +++
 title = 'friends responses to mental health'
 date = 2024-11-09T00:38:20-05:00
-draft = false
+draft = true
 description = 'friends and mental health'
 tags = ['personal', 'mental-health']
 +++
