@@ -1,17 +1,15 @@
 ---
+title: "destroy detroit"
 draft: false
 date: 2024-11-06T12:00:00-04:00
-title: "destroy detroit"
-description: ""
-authors: ["Mia"]
-tags: ['personal', 'movies', 'detroit']
-categories: []
-series: []
+author: ["mia"]
+description: "wouldnt it be cool?"
+categories: ["personal"]
+tags: ["movies", "detroit", "for-fun"]
+featuredImage: "/blog/detroit-disaster-movie/skyline-facing-south.png"
 ---
 
-![https://visitdetroit.com/meet-detroit/promote-your-meeting/toolkit/maps/](/blog/detroit-disaster-movie/skyline-facing-south.png)
-
-I wanna destroy the city I live in. Like, fictionally. Don't get me wrong, I love my city, but seriously nothing would bring me a greater joy than watching it get blown up, smashed, giant robots squashing people and aliens zapping them a la Mars Attacks? maybe something natural, Michigan is surrounded by water after all. A Micheal Bay-esque director with a big budget could have some real fun with it. I'd love something creative and new, but even some mindless drivel would be fun to watch knowing the locations.
+I wanna destroy the city I live in, fictionally (maybe sometimes in real life). Don't get me wrong, I love my city, but seriously nothing would bring me a greater joy than watching it get blown up, smashed, giant robots squashing people and aliens zapping them a la Mars Attacks? maybe something natural, Michigan is surrounded by water after all. A Micheal Bay-esque director with a big budget could have some real fun with it. I'd love something creative and new, but even some mindless drivel would be fun to watch knowing the locations.
 
 There is definitely a lack of movies set, or even filmed, in and around Detroit might not be odd but is certainly lacking. We have a few classics, like Robocop, or Gran Torino. I personally enjoyed It Follows, a unique and fun horror. True Romance is another obvious one to mention, as it starts in Detroit. But none of those really capture the feeling of Detroit, and none of them are true disaster with a capital D movies.
 

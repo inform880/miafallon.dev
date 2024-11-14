@@ -24,9 +24,7 @@ since = 2017
 enableTwemoji = true
 
 colorScheme = "dark"
-hidecolorschemetoggle = false
-
-maxSeeAlsoItems = 0
+hidecolorschemetoggle = true
 
 # customCSS = ["css/custom.css"]
 customSCSS = ["scss/custom.scss"]
@@ -36,8 +34,6 @@ unsafe = true
 
 [params.goatCounter]
 code = "mfallondev"
-# You will access your account at https://[code].goatcounter.com
-# analytics ^
 
 [taxonomies]
 category = "categories"
@@ -50,16 +46,19 @@ name = "Github"
 icon = "fa-brands fa-github fa-2x"
 weight = 1
 url = "https://github.com/inform880/"
+target = "_blank"
 [[params.social]]
 name = "LinkedIn"
 icon = "fa-brands fa-linkedin fa-2x"
 weight = 2
 url = "https://linkedin.com/in/mia-fallon"
+target = "_blank"
 [[params.social]]
 name = "Discord"
 icon = "fa-brands fa-discord fa-2x"
 weight = 2
 url = "https://discordapp.com/users/178255008788250624"
+target = "_blank"
 [[params.social]]
 name = "RSS"
 icon = "fa-solid fa-rss fa-2x"
@@ -67,6 +66,7 @@ weight = 3
 url = "/index.xml"
 rel = "alternate"
 type = "application/rss+xml"
+target = "_blank"
 [[params.social]]
 name = "email"
 icon = "fa-solid fa-paper-plane fa-2x"
@@ -78,8 +78,22 @@ type = "application/email"
 [[menu.main]]
 name = "posts"
 weight = 1
-url = "blog/"
+url = "posts/"
 [[menu.main]]
 name = "projects"
 weight = 2
 url = "projects/"
+
+
+[params.giscus]
+repo = "inform880/miafallon.dev"
+repoID = "R_kgDOLsPyyA"
+category = "General"
+categoryID = "DIC_kwDOLsPyyM4CkRjE"
+mapping = "title"
+strict = "1"
+reactionsEnabled = "0"
+emitMetadata = "1"
+inputPosition = "bottom"
+lang = "en"
+loading = "lazy"

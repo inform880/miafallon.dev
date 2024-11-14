@@ -8,7 +8,11 @@ h6 {
 }
 
 .content header {
-  margin-top: 16px;
+  margin-top: 8px;
+}
+
+.content header a {
+  text-transform: lowercase !important;
 }
 
 .fa-link::before {
@@ -27,16 +31,6 @@ h6 {
   .navigation-title {
     text-transform: none !important;
     letter-spacing: normal;
-    font-size: 20px;
-  }
-  .navigation-title::before {
-    background-image: url("/favicon.svg");
-    background-size: 22px 22px;
-    display: inline-block;
-    background-repeat: no-repeat;
-    height: 22px;
-    width: 24px;
-    content: "";
   }
 }
 
@@ -52,15 +46,13 @@ h6 {
 }
 
 p {
-  // margin: 0 !important;
-  // word-wrap: normal !important;
   text-align: unset !important;
   hyphens: unset !important;
 }
 
 .container {
   flex-direction: column;
-  max-width: 650px;
+  max-width: 625px;
 }
 
 .about {
