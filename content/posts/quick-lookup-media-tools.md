@@ -12,7 +12,7 @@ tags:
   - streaming
   - diy
 ---
-This is a quick reference for those new to do it yourself streaming tools. I try to link to resources for each one (including any of my own posts) with a short description and what platforms it can run on, and organize it by category as best as I can. 
+This is a quick reference for those new to do it yourself media and streaming tools. I try to link to resources for each one (including any of my own posts) with a short description and what platforms it can run on, and organize it by category as best as I can. 
 
 **live document, will be updated over time**
 
