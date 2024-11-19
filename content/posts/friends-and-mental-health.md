@@ -2,7 +2,7 @@
 title: "responses to mental health"
 draft: false
 date: 2024-11-09T00:38:20-05:00
-author: ["mia"]
+authors: ["mia"]
 description: "mental health, and stuff"
 categories: ["personal"]
 tags: ["mental-health", "stream-of-thought"]

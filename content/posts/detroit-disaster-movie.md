@@ -2,7 +2,7 @@
 title: "destroy detroit"
 draft: false
 date: 2024-11-06T12:00:00-04:00
-author: ["mia"]
+authors: ["mia"]
 description: "wouldnt it be cool?"
 categories: ["personal"]
 tags: ["movies", "detroit", "for-fun"]

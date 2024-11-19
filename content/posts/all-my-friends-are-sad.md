@@ -4,7 +4,7 @@ date: 2024-11-15T03:50:57-05:00
 title: All my friends are sad
 description: Who's gonna pull each other up when everyone is down?
 slug: ""
-author:
+authors:
   - mia
 categories:
   - personal

@@ -39,6 +39,7 @@ code = "mfallondev"
 category = "categories"
 series = "series"
 tag = "tags"
+authors = "authors"
 
 # Social links
 [[params.social]]
