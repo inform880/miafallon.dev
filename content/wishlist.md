@@ -1,3 +1,5 @@
+2012 GMC terrain car battery (will probably have to be arranged with me?)
+
 [binding of issac: complete edition - $51](https://store.steampowered.com/bundle/2405/The_Binding_of_Isaac_Rebirth_Complete_Bundle/)
 
 [flirc USB adapter - $23](https://www.amazon.com/Universal-Remote-Control-Receiver-Raspberry/dp/B01NBRBWS6?th=1)
