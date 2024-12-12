@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2024-12-12T16:00:00
-title: The Manifesto
+title: alleged manifesto of the UHC shooter
 description: Unconfirmed manifesto
 slug:
 authors:
