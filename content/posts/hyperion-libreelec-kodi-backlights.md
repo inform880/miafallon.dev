@@ -4,7 +4,7 @@ draft: true
 date: 2024-11-17T07:13:00
 authors:
   - mia
-description: DIY tv
+description: DIY TV backlight
 categories:
   - technical
 tags:
