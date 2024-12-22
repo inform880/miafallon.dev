@@ -17,8 +17,7 @@ categories:
 ---
 Here are some stats about my Plex server as a "year in review" type post. This only includes June through today, as that's the first month I started collecting this data. None of this data includes my own streaming (and two people in my plex "home"). A "play" is defined as a video file being watched at least 95% of the way through for movies, and 90% for TV shows, and it does include replays.
 
-### A few totals
-(again, not including myself)
+### Total media available
 - Movies: **753**
 - TV Shows: **242**
     - Seasons: **852**
