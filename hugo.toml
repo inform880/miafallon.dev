@@ -11,7 +11,7 @@ paginate = 20
 style = "github-dark"
 
 [params]
-author = "m. fallon"
+author = "mia fallon"
 info = "senior software engineer"
 description = "My portfolio, blog, and personal website all-in-one"
 keywords = "blog,developer,personal,portfolio"
